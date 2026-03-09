@@ -1,23 +1,38 @@
 # Bunmi-Sijuwade
-Product Manager building AI prototypes | Enterprise commerce platforms → AI-powered products
+Product Manager × Builder × AI Prototyper
 
-I translate complex technical systems into intuitive user experiences. 13+ years in enterprise commerce platforms (Salesforce Commerce Cloud, ActionIQ CDP, Dynamic Yield, Salsify PIM), managing global ecommerce stacks and leading cross-functional teams. Currently building AI-powered products and exploring the intersection of product management and rapid prototyping.
+
+I translate complex technical systems into intuitive user experiences. 13+ years in enterprise commerce platforms (Salesforce Commerce Cloud, ActionIQ CDP, Dynamic Yield, Salsify PIM) managing global ecommerce stacks and leading cross-functional teams. Currently building AI-powered products and exploring the intersection of product management and rapid prototyping.
+
+
 What I'm Building
 MatchMyStyle
 AI-powered personal styling app using Claude AI for natural language style analysis
 Stack: React, Claude AI (Anthropic API), Lovable, GitHub
 Focus: Building intelligent product search with aesthetic tagging and brand intelligence layers
+
+
 MemoryCube
 Interactive 3D memory platform that transforms photos into spatial experiences
 Stack: React + TypeScript, Three.js, Supabase, Vercel
 Status: v0.1 shipped, exploring collaborative memory features
 
+
+Coupon Code Generator (Estée Lauder, 2013)
+Internal application that automated bulk offer code generation across brands
+Stack: Axure (rapid prototyping)
+Impact: Eliminated manual engineering work, enabled marketing teams to self-serve
+
+
 Background
 
-Alexander Wang (Lead PM, Global DTC & Omnichannel) — Built a full omnichannel stack: SFCC, ActionIQ CDP, Dynamic Yield. Managed 1 PMs + 9 offshore engineers. Shipped 28% conversion lift via AI-powered search optimization.
-Ezra Coaching - SaaS B2B Coaching platform.  First PM.  Managed Client/Coaching interface and Admin platform.
-Kiehl's/L'Oréal (Senior PM, Global Ecommerce) — Led SFCC replatforming/redesign across 12 international markets. Implemented Salsify PIM + OpenText DAM (NextGenLora program). Built merchant-facing interfaces for complex data systems. Implemented Instant Skin Reader for product recommendation.
-Estée Lauder Companies (PM, Global Ecommerce Platforms) — Managed 260+ global sites. Specialized in translating backend platform complexity into business user workflows. Used Axure to create interactive prototype for promotion application
+Alexander Wang (Lead PM, Global DTC & Omnichannel) — Built a full omnichannel stack: SFCC, ActionIQ CDP, Dynamic Yield with offshore engineers. Shipped 28% conversion lift via AI-powered search optimization.
+
+Ezra Coaching (Lead Technical PM) — Led product strategy for B2B SaaS coaching platform serving Fortune 500 clients (Starbucks, Microsoft, McDonald's, AstraZeneca). Managed 30+ engineers across Backend, Frontend, QA, UX. Used PowerBI analytics to reduce user drop-off by 40% and optimize engagement.
+
+Kiehl's/L'Oréal (Senior PM, Global Ecommerce) — Led SFCC replatforming across 12 international markets. Spearheaded AI-powered Instant Skin Reader using ML to analyze skin concerns and generate personalized product recommendations. Implemented Salsify PIM + OpenText DAM (NextGenLora program).
+
+Estée Lauder Companies (PM, Global Ecommerce Platforms) — Managed 260+ global sites. Built internal tools like the Coupon Code Generator (Axure) that automated bulk offer code creation and eliminated manual engineering bottlenecks.
 
 
 Technical Approach
