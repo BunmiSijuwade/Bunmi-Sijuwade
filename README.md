@@ -6,20 +6,21 @@ I translate complex technical systems into intuitive user experiences. 13+ years
 
 
 What I'm Building
-MatchMyStyle
+
+[MatchMyStyle](https://github.com/BunmiSijuwade/MatchMyStyle)
 AI-powered personal styling app using Claude AI for natural language style analysis
 Stack: React, Claude AI (Anthropic API), Lovable, GitHub
 Focus: Building intelligent product search with aesthetic tagging and brand intelligence layers
 
 
-MemoryCube
+[MemoryCube](https://github.com/BunmiSijuwade/MemoryCube)
 Interactive 3D memory platform that transforms photos into spatial experiences
 Stack: React + TypeScript, Three.js, Supabase, Vercel
 Status: v0.1 shipped, exploring collaborative memory features
 
 
-Coupon Code Generator (Estée Lauder, 2013)
-Internal application that automated bulk offer code generation across brands
+[Coupon Code Generator](https://www.behance.net/gallery/77482481/Coupon-Code-Generator) (Estée Lauder, 2013)
+Internal application that automates bulk offer code generation across brands
 Stack: Axure (rapid prototyping)
 Impact: Eliminated manual engineering work, enabled marketing teams to self-serve
 
