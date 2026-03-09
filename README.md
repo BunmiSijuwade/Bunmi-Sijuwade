@@ -26,4 +26,4 @@ Skills: Product management, enterprise SaaS, prompt engineering, Python, React, 
 
 📍 Brooklyn, NY
 🎓 M.P.S. Interactive Telecommunications (NYU) | B.S. Computer Information Systems (LIU)
-🔗 [LinkedIn](https://www.linkedin.com/in/bunmisijuwade)
+🔗 [LinkedIn](https://www.linkedin.com/in/bunmi-sijuwade/)
